@@ -1,5 +1,5 @@
 #include <iostream>
-#include "C:\Users\LENOVO\Documents\DSA Coding Ninjas\code\Stack_and_queue\lectures\StackUsingArray.h"
+#include "C:\Users\LENOVO\Documents\DSA Coding Ninjas\competitive-programming\code\Stack_and_queue\lectures\StackUsingArray.h"
 #include <stack>
 using namespace std;
 
